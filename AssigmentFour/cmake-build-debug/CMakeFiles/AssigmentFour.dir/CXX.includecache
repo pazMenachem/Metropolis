@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Paz_m/CLionProjects/AssigmentFour/Map.h
+MapImp.h
+/cygdrive/c/Users/Paz_m/CLionProjects/AssigmentFour/MapImp.h
+
+/cygdrive/c/Users/Paz_m/CLionProjects/AssigmentFour/MapImp.h
+Map.h
+/cygdrive/c/Users/Paz_m/CLionProjects/AssigmentFour/Map.h
+iostream
+-
+
+/cygdrive/c/Users/Paz_m/CLionProjects/AssigmentFour/main.cpp
+iostream
+-
+Map.h
+/cygdrive/c/Users/Paz_m/CLionProjects/AssigmentFour/Map.h
+
